@@ -1,3 +1,10 @@
+# Joseph B. Zambon
+# 25 February 2020
+# jbzambon@ncsu.edu
+#
+# Program to download ERA-5 for 1-August 2016 through 1-November 2018 for Olivia
+#   After finishing, run nco commands listed at bottom of this code.
+
 import cdsapi
 
 c = cdsapi.Client()
