@@ -1,0 +1,7 @@
+Joseph B. Zambon
+25 February 2020
+jbzambon@ncsu.edu
+
+Downloaded ERA-5 for 1-August 2016 through 1-November 2018 for Olivia.
+
+Python script requires cdsapi (conda install -c conda-forge cdsapi) and .cdsapirc key (see https://cds.climate.copernicus.eu/api-how-to)
